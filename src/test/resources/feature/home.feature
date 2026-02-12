@@ -1,3 +1,4 @@
+@testing
 Feature: home page functionality
   Scenario: validate user should be able to see logo aligned at top of webpage
     Given navigate to homepage

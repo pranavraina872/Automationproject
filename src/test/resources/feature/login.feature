@@ -1,3 +1,4 @@
+@testing
 Feature: login page functionality
   Scenario: validate user should be able to login with valid credentials
     Given open the browser
